@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-image: url(../Img/31original.gif);
+}
+
+body {
+    width: 100%;
+}
+.img_sort
+{
+    float: right;
+    background-color: cornflowerblue;
+    margin-top: 4px;
+    margin-right: 5px;
+}
